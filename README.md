@@ -2,7 +2,7 @@
 Write a program that obtains the execution time for finding all the prime numbers less than 8,000,000, 10,000,000, 12,000,000, 14,000,000, 16,000,000, and 18,000,000 using the algorithms in Listings 22.5–22.7.
 
 ## Example Output
-![Sample Output](README.png)
+![Sample Output](ReadMe.png)
 
 ## Analysis Steps
 
